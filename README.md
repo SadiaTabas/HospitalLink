@@ -203,7 +203,7 @@ Patients pay for medical services through bills.
 
 #  Technology Used
 
-* MySQL  
+* Oracle Database Express Edition
 * ER Modeling
 * Relational Schema Design
 * Database Normalization
